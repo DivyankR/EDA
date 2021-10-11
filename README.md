@@ -6,3 +6,5 @@ Different kinds of visualizations are used to communicate the results.
 ###### Pandas
 ###### Matplotlib
 ###### Seaborn
+# Data Source
+The data has been collected from this kaggle dataset https://www.kaggle.com/tejashvi14/engineering-placements-prediction 
